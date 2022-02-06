@@ -1,3 +1,7 @@
+Hosted Link =>
+	https://nanawagh.github.io/feb02/ass1.html
+	
+Assignment =>	
 Create a simple html page which will show
 
 	1. all html concepts that you have learned till now in tabular format

@@ -8,6 +8,7 @@ Assignment 1:
       ---> And public holidays in Red text.
       Hosted Link :
       https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/feb09/calender.html
+      https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/feb09/calender.html
 
 
 Assignment 2:

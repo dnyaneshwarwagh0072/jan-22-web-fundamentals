@@ -6,7 +6,8 @@ Assignment 1:
       ---> Sunday in Red text
       ---> Saturday in Yellow text
       ---> And public holidays in Red text.
-      Hosted Link : https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/feb09/calender.html
+      Hosted Link :
+      https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/feb09/calender.html
 
 
 Assignment 2:

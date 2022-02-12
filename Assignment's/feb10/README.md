@@ -7,4 +7,5 @@ Assignment 1:
 Assignment 2: 
     
     ->  Create a landing page for a restaurant. (This is the main one).
+  Link : https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/feb10/restaurant.html
     

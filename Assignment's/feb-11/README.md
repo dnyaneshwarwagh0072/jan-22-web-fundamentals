@@ -13,3 +13,4 @@ Assignment 2: ->
     -> https://dribbble.com/ ->
      https://in.pinterest.com/ -> Google landing page designs. 
      -> Submission, the dribble/pinterest links of the pages/inspirations.
+   Link : https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/feb-11/ass-2.html

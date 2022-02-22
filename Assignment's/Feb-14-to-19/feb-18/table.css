@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(39, 44, 44);
+    margin: 0px;
+}
+h2{
+    color: #b9d6c3;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.table{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+tr:nth-child(3n+1){
+    background-color: rgb(155, 217, 241);
+}
+tr:nth-child(3n+2){
+    background-color: rgb(177, 181, 221);
+}
+tr:nth-child(3n+3){
+    background-color: rgb(194, 206, 192);
+}
+th{
+    background-color: rgb(44, 25, 25);
+    color:rgb(190, 247, 34);
+    font-style: italic;
+    font-size: large;
+}
+td{
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size: 19px;
+}
+.sr-no{
+    text-align: center;
+}

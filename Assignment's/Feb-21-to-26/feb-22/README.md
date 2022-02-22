@@ -1,9 +1,10 @@
 
 Assignment : 1 
 
-         A calculator... No functionality. But with the CSS: :
+         A calculator... No functionality. But with the CSS :
          
-    https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/Feb-21-to-26/feb-22/calculator.html
+    LINK :     
+            https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/Feb-21-to-26/feb-22/calculator.html
 
 Assignment : 2
  

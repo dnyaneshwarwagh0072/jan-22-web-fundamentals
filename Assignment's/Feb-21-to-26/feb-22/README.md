@@ -9,3 +9,6 @@ https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/Feb-21-to-26/feb
 Assignment : 2
  
          A UI for rock, paper scissor. -> https://www.rpsgame.org/random
+         
+        LINK :
+https://nanawagh.github.io/jan-22-web-fundamentals/Assignment's/Feb-21-to-26/feb-22/gamePage.html

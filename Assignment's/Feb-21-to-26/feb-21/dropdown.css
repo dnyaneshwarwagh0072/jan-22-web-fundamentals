@@ -1,4 +1,4 @@
- *{
+*{
     margin: 0%;
     padding: 0%;
 }
@@ -29,9 +29,13 @@ body{
 .container ul li:hover{
     background-color: rgb(153, 153, 25);
 }
+#sub_menu-2{
+    margin-top: -52px;
+}
 
 #sub_menu-1 li{
     display: none;
+    margin-bottom: 1px;
 }
 
 .container li:hover #sub_menu-1 > li{
@@ -40,6 +44,9 @@ body{
 
 #sub_menu-2 li {
     display: none;
+    margin-left: 150px;
+    margin-bottom: 1px;
+
 }
 
 .container li:hover > #sub_menu-2 > li{

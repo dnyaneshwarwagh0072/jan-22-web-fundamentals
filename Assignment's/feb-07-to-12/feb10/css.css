@@ -1,0 +1,24 @@
+body{
+    background-image: url(./download.jpg);
+    background-size: cover;
+}
+#w1{
+    font-size: 40px;
+    font-family: 'Festive', cursive;
+    font-family: 'Shizuru', cursive;
+    text-align: center;
+    color: white; 
+}
+#w2{
+    font-size: 35px;
+    text-align: center;
+    margin-top: -4%;
+    padding-left: 510px;
+    font-family: 'Festive', cursive;
+    color: aliceblue;
+}
+#w3{
+    margin-top: 40px;
+    margin-bottom: -90px;
+    margin-left: 50px;
+}

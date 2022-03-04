@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin-top: 200px;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #71b7e6, #19111b);
+}
+h2{
+    color: yellow;
+    font-weight: bold;
+}
+button {
+    width: 15%;
+    color: yellow;
+    background: linear-gradient(-135deg, #71b7e6, #19111b);
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #71b7e6, #19111b);
+    position: relative;
+}

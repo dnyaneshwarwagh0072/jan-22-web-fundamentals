@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    background-color: #c0b5b5;
+    height: 750px;
+}
+h1{
+    text-align: center;
+    color: rgb(119, 18, 214);
+    font-size: 8vh;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center
+}
+.image-resolution{
+    width: 300px;
+    height: 200px;
+    border: 2px solid rgb(98, 7, 7);
+    border-radius: 50px;
+    
+}
+img:hover{
+    border: 2px solid rgb(180, 253, 8);
+    
+}
+h1:hover{
+    color: yellow;
+}

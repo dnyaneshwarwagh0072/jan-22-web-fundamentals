@@ -18,7 +18,7 @@ body{
     margin: 0;
     font-weight: 500;
     letter-spacing: 20px;
-/*     background: url(./image_processing20200525-25033-1a4rkzy.jpg) center no-repeat; */
+    background: url(./image_processing20200525-25033-1a4rkzy.jpg) center no-repeat;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
